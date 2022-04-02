@@ -1,0 +1,8 @@
+- source code chạy trên Android studio
+- file APK tải trực tiếp về điện thoại của bạn
+- chú thích trong database:
++ authentication là gmail xác thực người dùng
++ realtime database là cơ sở dữ liệu thời gian thực
++ storage là nơi lưu trữ file vật lý như là image...
+- link: 
+https://l.facebook.com/l.php?u=https%3A%2F%2Fconsole.firebase.google.com%2Fu%2F0%2Fproject%2Fsocialinstaapp-d3aeb%2Fsettings%2Fiam%3Ffbclid%3DIwAR1xmm3Kf4CdfchNgheQBoHKZe0yTcdnx25SFberqskLQEy9DvDoK-Mjx6Y&h=AT3bMLx0ZaR5I0bSQC_slDm5a1jwKr9PCrz6VYEcxr_FtWoam5oURcQQSLWr8toa_AewnBKyvaEfLwybTouVRTVxZm8RQLSn48bFtguIQJCqbN8Np1aIub2WmedWKqXPj4KDbw
